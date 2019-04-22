@@ -1,0 +1,4 @@
+some kind of change
+more changes
+changes for hotfix
+finally learned how to use vim kinda
